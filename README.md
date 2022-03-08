@@ -1,2 +1,0 @@
-# bmeindl.github.io
-homepage
